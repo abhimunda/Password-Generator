@@ -32,3 +32,5 @@ This tool allows users to generate strong and secure passwords instantly, with o
   CSS3 – Styling and responsiveness
 
   JavaScript – Core logic for password generation and interactivity
+
+🔗LINK: https://password-generator-silk-eta.vercel.app/
